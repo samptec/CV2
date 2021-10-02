@@ -1,0 +1,94 @@
+body {
+    background-color: #CFDAC8;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navmycss {
+    /* background-color: #2E279D; */
+    background-color: #7C9473;
+    /* border-bottom-left-radius: 10%;
+border-bottom-right-radius: 10%; */
+}
+
+.brandmycss {
+    color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.Navlogomycss {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.navlicss {
+    font-size: large;
+}
+
+.dropdownmycss {
+    background-color: #7C9473;
+}
+
+.ddlicss {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.ddlicss:hover {
+    background-color: #CFDAC8;
+    color: #7C9473;
+}
+
+.intro {
+    background-color: #CFDAC8;
+    width: auto;
+    height: auto;
+    font-size: larger;
+}
+
+.samimg {
+    width: 33%;
+    height: 33%;
+    display: block;
+    margin: auto;
+}
+
+.introhd {
+    text-align: center;
+}
+
+.pintro {
+    text-align: center;
+}
+
+h1 {
+    color: #7C9473;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 70px;
+}
+
+h2 {
+    color: grey;
+}
+
+hr {
+    display: block;
+    margin: auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 3%;
+    color: #444444;
+    background-color: transparent;
+}
+
+a {
+    color: #406343;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #7C9473;
+}
