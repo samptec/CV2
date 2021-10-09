@@ -1,10 +1,11 @@
-  @media (max-width: 320px){
+  
 
   body {
         background-color: #E8EAE6;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
     
+@media (max-width: 320px){
     .navmycss {
         /* background-color: #2E279D; */
         background-color: #7C9473;
@@ -40,6 +41,7 @@
         background-color: #CFDAC8;
         color: #7C9473;
     }
+}
     
     .hd {
         background-color: #CFDAC8;
@@ -133,4 +135,3 @@
         background-image: linear-gradient(to bottom, #CDD0CB, #CFDAC8);
         text-decoration: none;
     }
-}
