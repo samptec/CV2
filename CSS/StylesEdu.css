@@ -1,4 +1,6 @@
-    body {
+  @media{
+
+  body {
         background-color: #E8EAE6;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
@@ -131,3 +133,4 @@
         background-image: linear-gradient(to bottom, #CDD0CB, #CFDAC8);
         text-decoration: none;
     }
+}
